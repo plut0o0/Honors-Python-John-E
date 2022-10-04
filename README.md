@@ -1,5 +1,5 @@
 # Honors Python Programs
-## John E.
+## Class Git
 ### 2022-2023
 ---
-Hello. This is a repository for my programs for Python class. Every program will be contained in the main branch of this repository. Each folder is a seperate chapter and the programs will either be kept in one large text file in each folder or in separate files.
+This repository will be used to document the programming projects of the Honors Python Class at Redeemer. The branches of this repository will be used to organize each student's projects by name and the folders within the branches will divide the programs by chapter. The purpose of this repository is to simply and effectively have the programming projects of the students organized in one place so that they may be accessed with ease and as little confusion as possible. 
