@@ -1,0 +1,33 @@
+1.
+
+length = 33
+width = 21
+area = length * width
+print ("The area of the rectangle is ", area, "units^2")
+
+2.
+
+length = 50 
+width = 25
+area = length * width
+print ("The area of the rectangle is ", area, "units^2")
+
+3.
+
+length = 125
+width = 40
+height = 110
+volume = length * width * height
+print ("The volume of the rectangular prism ", volume, "units^3")
+
+4.
+
+sides = 60
+volume = sides * 3
+print ("The volume of the cube is ", volume. "units^3")
+
+5.
+
+sides = 1234
+perimeter = 4*sides
+print ("The perimeter is ", perimeter, "units")
